@@ -1,6 +1,7 @@
 <!-- Cover Image -->
 <p align="center">
-![image](https://github.com/user-attachments/assets/2e06cf33-10e4-4471-9d1c-8dc02199d473)
+  <img src="https://github.com/user-attachments/assets/2e06cf33-10e4-4471-9d1c-8dc02199d473" alt="Whiteboard Cover" width="600"/>
+
 
 </p>
 
